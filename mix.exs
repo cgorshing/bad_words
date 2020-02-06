@@ -36,6 +36,7 @@ defmodule BadWords.MixProject do
 
   defp deps do
     [
+      {:ex_doc, "~> 0.15", only: :dev}
     ]
   end
 end
