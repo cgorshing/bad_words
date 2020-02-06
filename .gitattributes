@@ -1,0 +1,3 @@
+*.ex    eol=lf
+*.esx   eol=lf
+*.json  eol=lf
